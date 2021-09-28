@@ -37,22 +37,22 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>research</title>
+      <link href="/research/index.html"/>
+      <url>/research/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><h3 id="Preprints"><a href="#Preprints" class="headerlink" title="Preprints:"></a>Preprints:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Mostafa Sadeghi, and Radu Horaud. <a href="https://arxiv.org/abs/2010.13676">“Face Frontalization Based on Robustly Fitting a Deformable Shape Model to 3D Landmarks.”</a> arXiv preprint arXiv:2010.13676 (2020).</p></blockquote><h3 id="Conference-papers"><a href="#Conference-papers" class="headerlink" title="Conference papers:"></a>Conference papers:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Radu Horaud, and Mostafa Sadeghi. <a href="https://hal.inria.fr/hal-03326002/">“Robust Face Frontalization For Visual Speech Recognition.”</a> International Conference on Computer Vision Workshops. 2021.</p></blockquote><blockquote><p><strong>Kang, Zhiqi</strong>, et al. <a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55">“Understanding political communication styles in televised debates via body movements.”</a> European Conference on Computer Vision Workshops. Springer, Cham, 2020.</p></blockquote><h3 id="Journal-papers"><a href="#Journal-papers" class="headerlink" title="Journal papers:"></a>Journal papers:</h3><h1 id="Community-activities"><a href="#Community-activities" class="headerlink" title="Community activities"></a>Community activities</h1><p>I was the reviewer for the following conference:</p><p>&gt; ACM Multimedia 2021</p>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>contact</title>
-      <link href="/contact/index.html"/>
-      <url>/contact/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h1><p>Thoth team,<br>Inria Grenoble-Rhône-Alpes,<br>655 Av. de l’Europe,<br>38330 Montbonnot-Saint-Martin</p><h2 id="Email"><a href="#Email" class="headerlink" title="Email"></a>Email</h2><p>my_first_name dot my_last_name at inria dot fr </p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -70,11 +70,11 @@
     
     
     <entry>
-      <title>research</title>
-      <link href="/research/index.html"/>
-      <url>/research/index.html</url>
+      <title>contact</title>
+      <link href="/contact/index.html"/>
+      <url>/contact/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><h3 id="Preprints"><a href="#Preprints" class="headerlink" title="Preprints:"></a>Preprints:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Mostafa Sadeghi, and Radu Horaud. <a href="https://arxiv.org/abs/2010.13676">“Face Frontalization Based on Robustly Fitting a Deformable Shape Model to 3D Landmarks.”</a> arXiv preprint arXiv:2010.13676 (2020).</p></blockquote><h3 id="Conference-papers"><a href="#Conference-papers" class="headerlink" title="Conference papers:"></a>Conference papers:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Radu Horaud, and Mostafa Sadeghi. <a href="https://hal.inria.fr/hal-03326002/">“Robust Face Frontalization For Visual Speech Recognition.”</a> International Conference on Computer Vision Workshops. 2021.</p></blockquote><blockquote><p><strong>Kang, Zhiqi</strong>, et al. <a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55">“Understanding political communication styles in televised debates via body movements.”</a> European Conference on Computer Vision Workshops. Springer, Cham, 2020.</p></blockquote><h1 id="Community-activities"><a href="#Community-activities" class="headerlink" title="Community activities"></a>Community activities</h1><p>I was the reviewer for the following conference:</p><p>&gt; ACM Multimedia 2021</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h1><p>Thoth team,<br>Inria Grenoble-Rhône-Alpes,<br>655 Av. de l’Europe,<br>38330 Montbonnot-Saint-Martin</p><h2 id="Email"><a href="#Email" class="headerlink" title="Email"></a>Email</h2><p>my_first_name dot my_last_name at inria dot fr </p>]]></content>
       
     </entry>
     

@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Collaborated with Facebook: what I have learned from this one-year project</title>
+      <link href="/2021/10/08/Collaborated-with-Facebook-what-I-have-learned-from-this-one-year-project/"/>
+      <url>/2021/10/08/Collaborated-with-Facebook-what-I-have-learned-from-this-one-year-project/</url>
+      
+        <content type="html"><![CDATA[<p>By the end of September, my project funded by Facebook Reality Lab has come to an end. With our recent submission, I believe that our collaboration is making a promising progress. I am really happy to be part of this collaboration and I sincerely thank my supervisor Dr. Radu Horaud for offering me this precious oppotuniry. During this year, I have surely experienced a lot of different things, some are more joyful, others might be less encouraging. By the end of it, it would be a good idea to spend some time to sum up what I have learned from this experience. I hope that it can help me to have a better organization for my recently started PhD.</p><h2 id="First-impression"><a href="#First-impression" class="headerlink" title="First impression"></a>First impression</h2><h2 id="Pros"><a href="#Pros" class="headerlink" title="Pros"></a>Pros</h2><h2 id="Cons"><a href="#Cons" class="headerlink" title="Cons"></a>Cons</h2><h2 id="My-thoughts"><a href="#My-thoughts" class="headerlink" title="My thoughts"></a>My thoughts</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Research </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>My first post</title>
       <link href="/2021/09/27/first_post/"/>
       <url>/2021/09/27/first_post/</url>
@@ -26,11 +45,11 @@
     
     
     <entry>
-      <title>contact</title>
-      <link href="/contact/index.html"/>
-      <url>/contact/index.html</url>
+      <title>404</title>
+      <link href="/404/index.html"/>
+      <url>/404/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h1><p>Thoth team,<br>Inria Grenoble-Rhône-Alpes,<br>655 Av. de l’Europe,<br>38330 Montbonnot-Saint-Martin</p><h2 id="Email"><a href="#Email" class="headerlink" title="Email"></a>Email</h2><p>my_first_name dot my_last_name at inria dot fr </p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -48,11 +67,22 @@
     
     
     <entry>
-      <title>404</title>
-      <link href="/404/index.html"/>
-      <url>/404/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>contact</title>
+      <link href="/contact/index.html"/>
+      <url>/contact/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h1><p>Thoth team,<br>Inria Grenoble-Rhône-Alpes,<br>655 Av. de l’Europe,<br>38330 Montbonnot-Saint-Martin</p><h2 id="Email"><a href="#Email" class="headerlink" title="Email"></a>Email</h2><p>my_first_name dot my_last_name at inria dot fr </p>]]></content>
       
     </entry>
     
@@ -64,17 +94,6 @@
       <url>/research/index.html</url>
       
         <content type="html"><![CDATA[<h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><p>-&gt; <strong>2021 October</strong> I joined the <a href="https://team.inria.fr/thoth/">Thoth</a> team as a PhD student under the supervision of <a href="https://thoth.inrialpes.fr/people/alahari/">Karteek Alahari</a> <span class="github-emoji"><span>🔥</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><br>-&gt; <strong>2021 September</strong> Funded by Facebook Reality Lab, my one-year project about Visually-asisted speech processing came to an happy ending. <span class="github-emoji"><span>👏</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44f.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p><h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><h3 id="Preprints"><a href="#Preprints" class="headerlink" title="Preprints:"></a>Preprints:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Mostafa Sadeghi, and Radu Horaud. <a href="https://arxiv.org/abs/2010.13676">“Face Frontalization Based on Robustly Fitting a Deformable Shape Model to 3D Landmarks.”</a> arXiv preprint arXiv:2010.13676 (2020).</p></blockquote><h3 id="Conference-papers"><a href="#Conference-papers" class="headerlink" title="Conference papers:"></a>Conference papers:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Radu Horaud, and Mostafa Sadeghi. <a href="https://hal.inria.fr/hal-03326002/">“Robust Face Frontalization For Visual Speech Recognition.”</a> International Conference on Computer Vision Workshops. 2021.</p></blockquote><blockquote><p><strong>Kang, Zhiqi</strong>, et al. <a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55">“Understanding political communication styles in televised debates via body movements.”</a> European Conference on Computer Vision Workshops. Springer, Cham, 2020.</p></blockquote><h3 id="Journal-papers"><a href="#Journal-papers" class="headerlink" title="Journal papers:"></a>Journal papers:</h3><h1 id="Community-activities"><a href="#Community-activities" class="headerlink" title="Community activities"></a>Community activities</h1><p>I was the reviewer for the following conference:</p><p>&gt; ACM Multimedia 2021</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     

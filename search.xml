@@ -37,17 +37,6 @@
     
     
     <entry>
-      <title>research</title>
-      <link href="/research/index.html"/>
-      <url>/research/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><h3 id="Preprints"><a href="#Preprints" class="headerlink" title="Preprints:"></a>Preprints:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Mostafa Sadeghi, and Radu Horaud. <a href="https://arxiv.org/abs/2010.13676">“Face Frontalization Based on Robustly Fitting a Deformable Shape Model to 3D Landmarks.”</a> arXiv preprint arXiv:2010.13676 (2020).</p></blockquote><h3 id="Conference-papers"><a href="#Conference-papers" class="headerlink" title="Conference papers:"></a>Conference papers:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Radu Horaud, and Mostafa Sadeghi. <a href="https://hal.inria.fr/hal-03326002/">“Robust Face Frontalization For Visual Speech Recognition.”</a> International Conference on Computer Vision Workshops. 2021.</p></blockquote><blockquote><p><strong>Kang, Zhiqi</strong>, et al. <a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55">“Understanding political communication styles in televised debates via body movements.”</a> European Conference on Computer Vision Workshops. Springer, Cham, 2020.</p></blockquote><h3 id="Journal-papers"><a href="#Journal-papers" class="headerlink" title="Journal papers:"></a>Journal papers:</h3><h1 id="Community-activities"><a href="#Community-activities" class="headerlink" title="Community activities"></a>Community activities</h1><p>I was the reviewer for the following conference:</p><p>&gt; ACM Multimedia 2021</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -59,9 +48,9 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -81,11 +70,22 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>research</title>
+      <link href="/research/index.html"/>
+      <url>/research/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><p>-&gt; <strong>2020 October</strong> I joined the <a href="https://team.inria.fr/thoth/">Thoth</a> team as a PhD student under the supervision of <a href="https://thoth.inrialpes.fr/people/alahari/">Karteek Alahari</a> <span class="github-emoji"><span>🔥</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><br>-&gt; <strong>2020 September</strong> Funded by Facebook Reality Lab, my project about Visually-asisted speech processing came to an happy ending. <span class="github-emoji"><span>👏</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44f.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p><h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><h3 id="Preprints"><a href="#Preprints" class="headerlink" title="Preprints:"></a>Preprints:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Mostafa Sadeghi, and Radu Horaud. <a href="https://arxiv.org/abs/2010.13676">“Face Frontalization Based on Robustly Fitting a Deformable Shape Model to 3D Landmarks.”</a> arXiv preprint arXiv:2010.13676 (2020).</p></blockquote><h3 id="Conference-papers"><a href="#Conference-papers" class="headerlink" title="Conference papers:"></a>Conference papers:</h3><blockquote><p><strong>Kang, Zhiqi</strong>, Radu Horaud, and Mostafa Sadeghi. <a href="https://hal.inria.fr/hal-03326002/">“Robust Face Frontalization For Visual Speech Recognition.”</a> International Conference on Computer Vision Workshops. 2021.</p></blockquote><blockquote><p><strong>Kang, Zhiqi</strong>, et al. <a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55">“Understanding political communication styles in televised debates via body movements.”</a> European Conference on Computer Vision Workshops. Springer, Cham, 2020.</p></blockquote><h3 id="Journal-papers"><a href="#Journal-papers" class="headerlink" title="Journal papers:"></a>Journal papers:</h3><h1 id="Community-activities"><a href="#Community-activities" class="headerlink" title="Community activities"></a>Community activities</h1><p>I was the reviewer for the following conference:</p><p>&gt; ACM Multimedia 2021</p>]]></content>
       
     </entry>
     

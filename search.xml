@@ -45,28 +45,6 @@
     
     
     <entry>
-      <title>404</title>
-      <link href="/404/index.html"/>
-      <url>/404/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -78,11 +56,11 @@
     
     
     <entry>
-      <title>contact</title>
-      <link href="/contact/index.html"/>
-      <url>/contact/index.html</url>
+      <title>404</title>
+      <link href="/404/index.html"/>
+      <url>/404/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h1><p>Thoth team,<br>Inria Grenoble-Rhône-Alpes,<br>655 Av. de l’Europe,<br>38330 Montbonnot-Saint-Martin</p><h2 id="Email"><a href="#Email" class="headerlink" title="Email"></a>Email</h2><p>my_first_name dot my_last_name at inria dot fr </p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -105,6 +83,28 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>contact</title>
+      <link href="/contact/index.html"/>
+      <url>/contact/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h1><p>Thoth team,<br>Inria Grenoble-Rhône-Alpes,<br>655 Av. de l’Europe,<br>38330 Montbonnot-Saint-Martin</p><h2 id="Email"><a href="#Email" class="headerlink" title="Email"></a>Email</h2><p>my_first_name dot my_last_name at inria dot fr </p>]]></content>
       
     </entry>
     

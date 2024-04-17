@@ -25,7 +25,9 @@ I completed my master's degree in Machine Learning and Optimization of Complex S
 <!-- ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities -->
 
+## News
 
+- **[2024.04]** One paper about task-imbalanced continual learning based on dynamic prompt learning is accepted by IJCAI 2024. Congrats to my collaborators! More details to come soon.
 
 
 {% include_relative _includes/projects.md %}

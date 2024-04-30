@@ -22,6 +22,8 @@ I completed my master's degree in Machine Learning and Optimization of Complex S
 - **Audio-visual Speech Processing:** audio-visual speech enhancement, audio-visual speech recognition
 
 ## News
+- **[2024.04]** I will be attending <a href="https://iplab.dmi.unict.it/icvss2024/Home" target = "_blank"> ICVSS 2024 </a> summer school in Sicily. The topic of this year is *Computer Vision in the Age of Large Language Models*. Looking forward to it!
+
 - **[2024.04]** One paper about task-imbalanced continual learning based on dynamic prompt learning is accepted by IJCAI 2024. Congrats to my collaborators! More details to come soon.
 
 

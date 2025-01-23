@@ -41,7 +41,6 @@
     <div class="title"><a href="https://arxiv.org/abs/2404.14721">Dynamically Anchored Prompting for Task-Imbalanced Continual Learning
 </a></div>
     <div class="author">Chenxing Hong, Yan Jin, <strong>Zhiqi Kang</strong>, Yizhou Chen, Mengke Li, Yang Lu, Hanzi Wang</div>
-    <div class="author"><i>Xiamen University & Inria</i> </div>
     <div class="periodical"><em>International Joint Conferences on Artificial Intelligence (IJCAI), Aug. 2024.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2404.14721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>

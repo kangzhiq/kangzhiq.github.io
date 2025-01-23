@@ -41,6 +41,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2404.14721">Dynamically Anchored Prompting for Task-Imbalanced Continual Learning
 </a></div>
     <div class="author">Chenxing Hong, Yan Jin, <strong>Zhiqi Kang</strong>, Yizhou Chen, Mengke Li, Yang Lu, Hanzi Wang</div>
+    <div class="author">Xiamen University & Inria </div>
     <div class="periodical"><em>International Joint Conferences on Artificial Intelligence (IJCAI), Aug. 2024.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2404.14721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
@@ -116,7 +117,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9746401">The impact of removing head movements on audio-visual speech enhancement
 </a></div>
-    <div class="author"><strong>Zhiqi Kang</strong>, Mostafa Sadeghi, Radu Horaud, Xavier Alameda-Pineda</div>
+    <div class="author"><strong>Zhiqi Kang</strong>, Mostafa Sadeghi, Radu Horaud, Xavier Alameda-Pineda, Jacob Donley, Anurag Kumar</div>
     <div class="periodical"><em>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, May 2022.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9746401" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>

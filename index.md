@@ -22,7 +22,7 @@ I completed my master's degree in Machine Learning and Optimization of Complex S
 - **Audio-visual Speech Processing:** audio-visual speech enhancement, audio-visual speech recognition
 
 ## News
-- **[2024.04]** One paper about general continual learning based on prompt initialization and output layer masking is accepted by ICLR2025. More details to come soon.
+- **[2025.01]** One paper about general continual learning based on prompt initialization and output layer masking is accepted by ICLR 2025. Huge thanks to all my co-authors! More details to come soon.
 
 
 - **[2024.04]** I will be attending <a href="https://iplab.dmi.unict.it/icvss2024/Home" target = "_blank"> ICVSS 2024 </a> summer school in Sicily. The topic of this year is *Computer Vision in the Age of Large Language Models*. Looking forward to it!

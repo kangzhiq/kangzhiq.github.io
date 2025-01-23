@@ -11,12 +11,14 @@
 <h4 style="margin:0 10px 0;">Review</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.acmmm2023.org/" target="_blank"> ACM Multimedia 2024 2023 2022 </a></li>
-  <li><a href="https://cvpr.thecvf.com/" target="_blank"> CVPR 2024 </a></li>
-  <li><a href="https://neurips.cc/" target="_blank"> NeurIPS 2024 </a></li>
+  <li><a href="https://www.acmmm2023.org/" target="_blank"> ACM Multimedia</a>: 2022-2024</li>
+  <li><a href="https://cvpr.thecvf.com/" target="_blank"> CVPR </a>: 2023-2025 </li>
+  <li><a href="https://neurips.cc/" target="_blank"> NeurIPS </a>: 2022-2024 </li>
+  <li><a href="https://iclr.cc/" target="_blank"> ICLR </a>: 2023-2025 </li>
+  <li><a href="https://neurips.cc/" target="_blank"> ACCV</a>, <a href="https://wacv2025.thecvf.com/" target="_blank"> WACV</a>: 2024</li>
   <li><a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding" target="_blank"> Computer Vision and Image Understanding (CVIU) </a></li>
   <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems" target="_blank"> IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </a></li>
-
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755" target="_blank"> IEEE Transactions on Mobile Computing </a></li> 
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>

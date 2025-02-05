@@ -90,7 +90,7 @@
     <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Kang_A_Soft_Nearest-Neighbor_Framework_for_Continual_Semi-Supervised_Learning_ICCV_2023_paper.html">A Soft Nearest-Neighbor Framework for Continual Semi-Supervised Learning
 </a></div>
     <div class="author"><strong>Zhiqi Kang*</strong>, Enrico Fini*, Moin Nabi, Elisa Ricci, Karteek Alahari</div>
-    <div class="periodical"><em>Proceedings of the IEEE/CVF International Conference on Computer Vision, ICCV 2023, <strong>(Oral)</strong>.</em></div>
+    <div class="periodical"><em>Proceedings of the IEEE/CVF International Conference on Computer Vision, ICCV 2023, <strong>Oral presentation</strong>.</em></div>
     <div class="links">
     <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Kang_A_Soft_Nearest-Neighbor_Framework_for_Continual_Semi-Supervised_Learning_ICCV_2023_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_A_Soft_Nearest-Neighbor_Framework_for_Continual_Semi-Supervised_Learning_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

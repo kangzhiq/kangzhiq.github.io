@@ -40,7 +40,7 @@
     <div class="title"><a href="https://github.com/kangzhiq/MISA">Advancing Prompt-Based Methods for Replay-Independent General Continual Learning 
 </a></div>
     <div class="author"><strong>Zhiqi Kang</strong>, Liyuan Wang, Xingxing Zhang, Karteek Alahari</div>
-    <div class="periodical"><em>International Conference on Learning Representations (ICLR), Apr. 2025.</em></div>
+    <div class="periodical"><em>International Conference on Learning Representations, ICLR 2025.</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2404.14721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <!-- <a href="https://arxiv.org/pdf/2404.14721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
@@ -65,7 +65,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2404.14721">Dynamically Anchored Prompting for Task-Imbalanced Continual Learning
 </a></div>
     <div class="author">Chenxing Hong, Yan Jin, <strong>Zhiqi Kang</strong>, Yizhou Chen, Mengke Li, Yang Lu, Hanzi Wang</div>
-    <div class="periodical"><em>International Joint Conferences on Artificial Intelligence (IJCAI), Aug. 2024.</em></div>
+    <div class="periodical"><em>International Joint Conferences on Artificial Intelligence, IJCAI 2024.</em></div>
     <div class="links">
     <a href="https://arxiv.org/abs/2404.14721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2404.14721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -90,7 +90,7 @@
     <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Kang_A_Soft_Nearest-Neighbor_Framework_for_Continual_Semi-Supervised_Learning_ICCV_2023_paper.html">A Soft Nearest-Neighbor Framework for Continual Semi-Supervised Learning
 </a></div>
     <div class="author"><strong>Zhiqi Kang*</strong>, Enrico Fini*, Moin Nabi, Elisa Ricci, Karteek Alahari</div>
-    <div class="periodical"><em>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) <strong>(Oral)</strong>, Oct. 2023.</em></div>
+    <div class="periodical"><em>Proceedings of the IEEE/CVF International Conference on Computer Vision, ICCV 2023, <strong>(Oral)</strong>.</em></div>
     <div class="links">
     <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Kang_A_Soft_Nearest-Neighbor_Framework_for_Continual_Semi-Supervised_Learning_ICCV_2023_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_A_Soft_Nearest-Neighbor_Framework_for_Continual_Semi-Supervised_Learning_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -116,7 +116,7 @@
     <div class="title"><a href="https://link.springer.com/article/10.1007/s11263-022-01742-1">Expression-preserving face frontalization improves visually assisted speech processing
 </a></div>
     <div class="author"><strong>Zhiqi Kang</strong>, Mostafa Sadeghi, Radu Horaud, Xavier Alameda-Pineda</div>
-    <div class="periodical"><em>International Journal of Computer Vision <strong>(IJCV)</strong>, May 2023.</em></div>
+    <div class="periodical"><em>International Journal of Computer Vision, IJCV 2023.</em></div>
     <div class="links">
     <a href="https://link.springer.com/article/10.1007/s11263-022-01742-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2204.02810" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -141,7 +141,7 @@
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9746401">The impact of removing head movements on audio-visual speech enhancement
 </a></div>
     <div class="author"><strong>Zhiqi Kang</strong>, Mostafa Sadeghi, Radu Horaud, Xavier Alameda-Pineda, Jacob Donley, Anurag Kumar</div>
-    <div class="periodical"><em>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, May 2022.</em></div>
+    <div class="periodical"><em>IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2022, <strong>Oral presentation</strong>.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9746401" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://ieeexplore.ieee.org/iel7/9745891/9746004/09746401.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -166,7 +166,7 @@
     <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/html/Kang_Robust_Face_Frontalization_for_Visual_Speech_Recognition_ICCVW_2021_paper.html">Robust Face Frontalization For Visual Speech Recognition
 </a></div>
     <div class="author"><strong>Zhiqi Kang</strong>, Radu Horaud, Mostafa Sadeghi</div>
-    <div class="periodical"><em>Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops <strong>(ICCVW)</strong>, Oct. 2021.</em></div>
+    <div class="periodical"><em>Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops, ICCVW 2021.</em></div>
     <div class="links">
     <a href="https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/html/Kang_Robust_Face_Frontalization_for_Visual_Speech_Recognition_ICCVW_2021_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/papers/Kang_Robust_Face_Frontalization_for_Visual_Speech_Recognition_ICCVW_2021_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -191,7 +191,7 @@
     <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55">Understanding political communication styles in televised debates via body movements
 </a></div>
     <div class="author"><strong>Zhiqi Kang</strong>, Christina Indudhara, Kaushik Mahorker, Erik P Bucy, Jungseock Joo</div>
-    <div class="periodical"><em>European Conference on Computer Vision Workshops <strong>(ECCVW)</strong>, Aug. 2020.</em></div>
+    <div class="periodical"><em>European Conference on Computer Vision Workshops, ECCVW 2020.</em></div>
     <div class="links">
     <a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://drive.google.com/file/d/1iAwQzgu6Ge76fu7vlmP7sbFC9XjlSeqr/view" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

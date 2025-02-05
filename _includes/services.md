@@ -16,6 +16,7 @@
   <li><a href="https://neurips.cc/" target="_blank"> NeurIPS </a>: 2022-2024 </li>
   <li><a href="https://iclr.cc/" target="_blank"> ICLR </a>: 2023-2025 </li>
   <li><a href="https://neurips.cc/" target="_blank"> ACCV</a>, <a href="https://wacv2025.thecvf.com/" target="_blank"> WACV</a>: 2024</li>
+  <li><a href="https://icml.cc/" target="_blank"> ICML</a>: 2025</li>
   <li><a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding" target="_blank"> Computer Vision and Image Understanding (CVIU) </a></li>
   <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems" target="_blank"> IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755" target="_blank"> IEEE Transactions on Mobile Computing </a></li> 

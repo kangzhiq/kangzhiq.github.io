@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a third-year Ph.D. candidate at <a href="https://www.inria.fr/en" target="_blank"> Inria</a>'s <a href="https://team.inria.fr/thoth/" target="_blank"> Thoth team</a>,
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the supervision of Dr.<a href="https://lear.inrialpes.fr/people/alahari/" target="_blank"> Karteek Alahari</a>. My research involves developing realistic deep learning models that learn continually (**Continual Learning**) from partially labeled visual information (**Computer Vision**) or multi-modal information (**Multi-modal learning**).
+working under the supervision of Dr.<a href="https://lear.inrialpes.fr/people/alahari/" target="_blank"> Karteek Alahari</a>. Since May 2024, we have started a collaboration with Dr.<a href="https://www.linkedin.com/in/rahaf-aljundi/" target="_blank"> Rahaf Aljundi</a> from <a href="https://www.toyota-europe.com/" target="_blank"> Toyota Motor Europe</a> to explore Continual learning with Vision Language Models.
 
 Prior to joining the Ph.D. program, I had the opportunity to work as a Research Engineer with <a href="https://www.inria.fr/en" target="_blank"> Inria</a> and <a href="https://about.meta.com/realitylabs/" target="_blank"> Meta Reality Labs </a> where I applied my skills to audio-visual speech processing. The project was under the mentorship of Dr. <a href="https://team.inria.fr/perception/team-members/radu-patrice-horaud/" target="_blank"> Radu Horaud</a> (*Inria*), Dr. <a href="https://msaadeghii.github.io/" target="_blank"> Mostafa Sadeghi</a> (*Inria*) and Dr. <a href="https://www.soundzones.com/jdonley/" target="_blank"> Jacob Donley </a> (*Meta*) and Dr. <a href="https://anuragkr90.github.io/" target="_blank"> Anurag Kumar </a> (*Meta*).
 
@@ -17,9 +17,9 @@ I completed my master's degree in Machine Learning and Optimization of Complex S
 
 
 ## Research Interests
-- **Continual Learning:** continual semi-supervised learning, contiual learning with foundation models
-- **Computer Vision:** image/video classification, face frontalization, video understanding
-- **Audio-visual Speech Processing:** audio-visual speech enhancement, audio-visual speech recognition
+- **Continual Learning:** Lifelong knowledge acquisition in realistic scenarios such as limited labeled data (ICCV 2023), imbalanced data (IJCAI 2024), online learning with stochastic data stream (ICLR 2025), and domain generalization or post-training (ongoing work).
+- **Vision-Language Learning and Reasoning:** Enhancing vision-language models' performance via in-context learning, test-time scaling, and model-based annotation (ongoing work).
+- **Audio-visual Speech Processing:** Enhancing audio-visual processing with face frontalization (IJCV 2023 and ICASSP 2022).
 
 ## News
 - **[2025.01]** One paper about general continual learning based on prompt initialization and output layer masking is accepted by **ICLR 2025**. Huge thanks to all my co-authors! More details to come soon.

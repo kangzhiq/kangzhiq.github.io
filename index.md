@@ -22,6 +22,9 @@ I completed my master's degree in Machine Learning and Optimization of Complex S
 - **Audio-visual Speech Processing:** Enhancing audio-visual processing with face frontalization (IJCV 2023 and ICASSP 2022).
 
 ## News
+- **[2025.04]** I am moving to Brussels for 3 months to work with Dr.<a href="https://www.linkedin.com/in/rahaf-aljundi/" target="_blank"> Rahaf Aljundi</a> in <a href="https://www.toyota-europe.com/" target="_blank"> Toyota Motor Europe</a>.  
+
+
 - **[2025.01]** One paper about general continual learning based on prompt initialization and output layer masking is accepted by **ICLR 2025**. Huge thanks to all my co-authors! More details to come soon.
 
 

@@ -42,11 +42,11 @@
     <div class="author"><strong>Zhiqi Kang</strong>, Liyuan Wang, Xingxing Zhang, Karteek Alahari</div>
     <div class="periodical"><em>International Conference on Learning Representations, ICLR 2025.</em></div>
     <div class="links">
-      <!-- <a href="https://arxiv.org/abs/2404.14721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-      <!-- <a href="https://arxiv.org/pdf/2404.14721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://iclr.cc/virtual/2025/poster/29430" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://www.arxiv.org/abs/2503.00677" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/kangzhiq/MISA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
-      <!-- <a href="assets/files/hong2024dynamically.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+      <a href="assets/files/kang2025advancing.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
       <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
     </div>
   </div>

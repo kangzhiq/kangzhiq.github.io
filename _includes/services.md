@@ -11,7 +11,7 @@
 <h4 style="margin:0 10px 0;">Talks</h4>
 
 <ul style="margin:0 0 20px;">
-<li><strong>[2025.07]</strong><a href="https://www.techbeat.net/talk-info?id=980" target="_blank"> TechBeat</a>: MISA: <span style="font-size:0.9em;">如何又好又快地让模型持续学到复杂的新知识.</span> </li>
+<li><strong>[2025.07]</strong><a href="https://www.techbeat.net/talk-info?id=980" target="_blank"> TechBeat</a>: MISA: <span style="font-size:0.8em;">如何又好又快地让模型持续学到复杂的新知识.</span> </li>
 <li><strong>[2025.02]</strong><a href="https://team.inria.fr/thoth/seminars/" target="_blank"> Thoth Seminar</a>: Advancing Prompt-Based Methods for Replay-Independent General Continual Learning. </li>
 </ul>
 

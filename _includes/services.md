@@ -8,6 +8,13 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
 
+<h4 style="margin:0 10px 0;">Talks</h4>
+
+<ul style="margin:0 0 20px;">
+<li><a href="https://www.techbeat.net/talk-info?id=980" target="_blank"> TechBeat</a>: <strong>MISA:  如何又好又快地让模型持续学到复杂的新知识</strong> 2025.07</li>
+<li><a href="https://team.inria.fr/thoth/seminars/" target="_blank"> Thoth Seminar</a>: <strong>Advancing Prompt-Based Methods for Replay-Independent General Continual Learning</strong> 2025.02</li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Review</h4>
 
 <ul style="margin:0 0 20px;">

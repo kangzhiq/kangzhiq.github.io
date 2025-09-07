@@ -15,15 +15,21 @@
 <li><strong>[2025.02]</strong><a href="https://team.inria.fr/thoth/seminars/" target="_blank"> Thoth Seminar</a>: Advancing Prompt-Based Methods for Replay-Independent General Continual Learning. </li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Review</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.acmmm2023.org/" target="_blank"> ACM Multimedia</a>: 2022-2024</li>
+  <li><a href="https://www.acmmm2023.org/" target="_blank"> ACM Multimedia</a>: 2022-2025</li>
   <li><a href="https://cvpr.thecvf.com/" target="_blank"> CVPR </a>: 2023-2025 </li>
-  <li><a href="https://neurips.cc/" target="_blank"> NeurIPS </a>: 2022-2024 </li>
+  <li><a href="https://neurips.cc/" target="_blank"> NeurIPS </a>: 2022-2025 </li>
   <li><a href="https://iclr.cc/" target="_blank"> ICLR </a>: 2023-2025 </li>
-  <li><a href="https://neurips.cc/" target="_blank"> ACCV</a>, <a href="https://wacv2025.thecvf.com/" target="_blank"> WACV</a>: 2024</li>
   <li><a href="https://icml.cc/" target="_blank"> ICML</a>: 2025</li>
+  <li><a href="https://iccv.thecvf.com/" target="_blank"> ICCV</a>: 2025</li>
+  <li><a href="https://neurips.cc/" target="_blank"> ACCV</a>, <a href="https://wacv2025.thecvf.com/" target="_blank"> WACV</a>: 2024</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
+<ul style="margin:0 0 20px;">
+  <li><a href="https://link.springer.com/journal/11263" target="_blank"> International Journal of Computer Vision (IJCV) </a></li>
   <li><a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding" target="_blank"> Computer Vision and Image Understanding (CVIU) </a></li>
   <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems" target="_blank"> IEEE Transactions on Neural Networks and Learning Systems (TNNLS) </a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755" target="_blank"> IEEE Transactions on Mobile Computing </a></li> 
